@@ -1,0 +1,15 @@
+{
+  "name": "faker-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raúl Lara",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.7"
+  }
+}
